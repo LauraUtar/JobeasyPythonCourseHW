@@ -1,8 +1,8 @@
 # Enter two numbers. If the first one is greater than the second, save first number in result_1,
 # otherwise save the second number to the result_1 variable.
 
-first_number = None
-second_number = None
+first_number = 8
+second_number = 20
 result_1 = None
 
 # Enter a random number in number_1 variable. If this number is 20 or
