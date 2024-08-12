@@ -1,1 +1,1 @@
-# JobEasy Python course homework
+# Python course homework
